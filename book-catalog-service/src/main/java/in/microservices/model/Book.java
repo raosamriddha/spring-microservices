@@ -28,5 +28,9 @@ public class Book {
 		this.name = name;
 	}
 	
+	public Book() {
+		
+	}
+	
 
 }
